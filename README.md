@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**ahwelgemoed/ahwelgemoed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀🎸📕🏍️
 
 Here are some ideas to get you started:
 
@@ -15,10 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-> Will you review that code?
-
-<a href="https://media.giphy.com/media/9GJ1lRip6TODBucmHk/giphy.gif"><img src="https://media.giphy.com/media/9GJ1lRip6TODBucmHk/giphy.gif" align="center" width="250" ></a>
+<a href="https://media.giphy.com/media/Rqhvhmtttbjzy/giphy.gif"><img src="https://media.giphy.com/media/Rqhvhmtttbjzy/giphy.gif" align="center" width="250" ></a>
 
 
-ahwelgemoed
