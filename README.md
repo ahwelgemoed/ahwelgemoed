@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 How To Approve a Pull Request
 
-<a href="https://gph.is/2HSN09z"><img src="https://gph.is/2HSN09z" align="center" width="250" ></a>
+<a href="https://media.giphy.com/media/9GJ1lRip6TODBucmHk/giphy.gif"><img src="https://media.giphy.com/media/9GJ1lRip6TODBucmHk/giphy.gif" align="center" width="250" ></a>
 
 
 ahwelgemoed
