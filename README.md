@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+How To Approve a Pull Request
+
+<a href="https://gph.is/2HSN09z"><img src="https://gph.is/2HSN09z" align="center" width="250" ></a>
+
+
+ahwelgemoed
