@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-How To Approve a Pull Request
+> Will you review that code?
 
 <a href="https://media.giphy.com/media/9GJ1lRip6TODBucmHk/giphy.gif"><img src="https://media.giphy.com/media/9GJ1lRip6TODBucmHk/giphy.gif" align="center" width="250" ></a>
 
