@@ -1,5 +1,6 @@
-🚀🎸📕🏍️
+## A.H. Welgemoed
 
-<a href="https://media.giphy.com/media/Rqhvhmtttbjzy/giphy.gif"><img src="https://media.giphy.com/media/Rqhvhmtttbjzy/giphy.gif" align="center" width="250" ></a>
+[My Site](www.ahwelgemoed.dev) |
+[Instagram](www.instagram.com/ahwelgemoed)
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahwelgemoed)](https://github.com/anuraghazra/github-readme-stats)
