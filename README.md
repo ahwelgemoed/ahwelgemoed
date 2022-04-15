@@ -1,6 +1,5 @@
+<h3 align="center">Hey - Dag - Molweni</h3>
 <p align="center">
-    <i>Hey - Dag - Molweni</i>
-    <br/> 
   I'm Arno and I've coded some apps, some are still live and some are not, some for love and some for money,
   some just the Frontend and some everything, some where good and some were not.
 </p>
@@ -9,7 +8,6 @@
         <img src="https://img.shields.io/badge/AHWELGEMOED.DEV-000000?style=for-the-badge&logo=&logoColor=white" />
     </a>
   </p>
-   <br/> 
   <h4 align="center">
     <i>SOCIAL</i>
   </h4>
@@ -24,7 +22,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
-  <br/> 
   <h4 align="center">
     <i>TECH</i>
   </h4>
@@ -36,7 +33,6 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Mendix-276DC3?style=for-the-badge&logo=&logoColor=white" />
   </p>
-  <br/> 
   <h4 align="center">
     <i>SOME PROJECTS</i>
   </h4>
