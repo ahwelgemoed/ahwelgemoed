@@ -9,7 +9,7 @@ Software developer from South Africa - Currently working in Ireland.
 
 ### Past Work
 
-🤳 I built an offline work game you can play in your browser or phone [paarl.io](https://www.paarl.io)
+🤳 I built an offline word game (think countdown) you can play in your browser or phone [paarl.io](https://www.paarl.io)
 
 🏋️ Senior Developer at Europe's biggest gym chain: [Basic-Fit](https://www.basic-fit.com)
 
