@@ -1,4 +1,4 @@
-Software developer from South Africa - Currently working in Ireland.
+Software developer working in Ireland.
 
 ### Current Work
 
