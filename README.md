@@ -4,8 +4,6 @@ Software developer working in Ireland.
 
 🐄  Software developer in the Agriculture Live Streaming space: [marteye](https://github.com/MartEye/) 
 
-🐋 Building [orcate](https://www.orcate.com) a Modern DAM / Digital Signage / Task Manager
-
 
 ### Past Work
 
